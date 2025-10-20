@@ -1,0 +1,67 @@
+#body{
+background:linear-gradient(90deg,#14cfbc,#042c54);
+
+}
+
+
+#header{
+     background:linear-gradient(90deg,#14cfbc,#042c54);
+font-size: larger;
+font-style: normal;
+color: rgb(230, 230, 230);
+padding-right: 20px;
+margin:0%;
+text-align: center;
+}
+
+
+#photo{
+width: 180px;
+ height: 200px;
+  border-radius: 50%;
+}
+
+#AboutMe{
+     color:rgb(0, 0, 0) ;
+     font-size: larger;
+     border-style: solid;
+     border-radius:15px;
+     width: 1000px;
+    height: 230px;
+    padding-left: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+ background-color:#14cfbc;
+
+}
+#ha{
+     font-size: larger;
+     border-style:solid;
+     border-radius: 15px;
+     margin-bottom: 20px; 
+     padding-left: 20px;
+     width: 1000px;
+     height: 200px;
+     margin-left: auto;
+    margin-right: auto;
+     background-color:#14cfbc;
+}
+#mc{
+     border-style:solid ;
+       border-radius: 15px; 
+           padding-left: 20px;
+             margin-bottom: 20px; 
+                margin-left: auto;
+         margin-right: auto;
+           background-color:#14cfbc;
+           width: 1000px;
+           height: 150px;
+           font-size: larger;
+}
+
+#footer{
+     text-align: center;    
+            margin-top: 150px;
+           margin-bottom: 50px;
+}
